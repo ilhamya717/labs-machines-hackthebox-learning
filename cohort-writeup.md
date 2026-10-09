@@ -1,6 +1,6 @@
 # HackTheBox — Cohort — Writeup
 
-**Difficulty:** Medium/Hard
+**Difficulty:** Easy
 **OS:** Linux
 **Techniques:** SSRF blocklist bypass, internal service enumeration, nginx vhost discovery, unauthenticated WebSocket RCE (CVE-2026-39987), PackageKit TOCTOU privilege escalation (CVE-2026-41651 / Pack2TheRoot)
 
